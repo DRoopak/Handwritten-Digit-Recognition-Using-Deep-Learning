@@ -1,8 +1,5 @@
 # Handwritten Digit Recognition using Machine Learning and Deep Learning
 
-## Published Paper 
-
-[IJARCET-VOL-6-ISSUE-7-990-997](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-6-ISSUE-7-990-997.pdf)
 
 # Requirements
 
@@ -125,10 +122,7 @@ ii)	Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
 
 **All code written in Python 3.5. Code executed on Intel Xeon Processor / AWS EC2 Server.**
 
-## Video Link:
-```
-https://www.youtube.com/watch?v=7kpYpmw5FfE
-```
+
 
 ## Test Images Classification Output:
 
